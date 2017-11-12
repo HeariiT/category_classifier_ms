@@ -1,4 +1,4 @@
-category_classifier_ms:
+category-classifier-ms:
   build: ./web
   ports:
    - "3004:3004"
