@@ -1,0 +1,6 @@
+category_classifier_ms:
+  build: ./web
+  ports:
+   - "3004:3004"
+  volumes:
+   - .:/code
