@@ -1,5 +1,5 @@
 category-classifier-ms:
-  #build: .
-  image: djguzmanc/category_classifier_ms
+  build: .
+  #image: djguzmanc/category_classifier_ms
   ports:
    - "3004:3004"
